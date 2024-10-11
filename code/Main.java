@@ -4,7 +4,7 @@
  * allows the user to input a destination tile using the mouse, and runs the A* algorithm to find the shortest path
  * from the source to the destination.
  *
- * @author Omer Ozan Mart & Serhat Tay, Student ID(respectively): 2022400267, 2022400201
+ * @author Omer Ozan Mart & Serhat Tay
  * @since Date: 8.04.2024
  */
 public class Main {
